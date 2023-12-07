@@ -4,9 +4,6 @@
 
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/dd6bc27c-c161-495c-8b6e-ec4164cd29a6" height=15> Completed the Data Science Specialist course </a> </p>    
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/75d9a9b3-24f2-4dab-b78d-a94afef7e1e3" height=15> Looking for a job </a> </p>  
-- <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/e1a8ec84-264f-453c-ba92-b5b6b6c713b9" height=15> The Data_Scientist_Specialist repository contains my projects from the Data Scientist Specialist course </a> </p>  
-
-
 
 ### Languages and Tools:
 <p> <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25> </a>
@@ -23,3 +20,24 @@
 <p> <a href="https://medium.com/@akylson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/igor-rezvykh/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a> </p>
 
+
+<h3>My Repositories</h3>
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+      <td><a href="https://github.com/iamigorr11/Data-Science-projects"><b>Data-Science-projects</b></a></td>
+      <td><a href="https://github.com/iamigorr11/Data-Science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/iamigorr11/Data-Science-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+</tr>    
+
+  </tbody>
+</table>
