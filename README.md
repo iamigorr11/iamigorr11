@@ -4,7 +4,7 @@
 
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/dd6bc27c-c161-495c-8b6e-ec4164cd29a6" height=15> Completed the Data Science Specialist course </a> </p>    
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/75d9a9b3-24f2-4dab-b78d-a94afef7e1e3" height=15> Looking for a job </a> </p>  
-- <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/e1a8ec84-264f-453c-ba92-b5b6b6c713b9" height=15> [Here](iamigorr11/yandex-praktikum-projects) are my projects from Data Scientist Specialist Course
+- <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/e1a8ec84-264f-453c-ba92-b5b6b6c713b9" height=15> [Here](yandex-praktikum-projects) are my projects from Data Scientist Specialist Course
 
 
 ### Languages and Tools:
