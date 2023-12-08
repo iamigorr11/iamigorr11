@@ -17,8 +17,8 @@
 <a> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height=25> </a></p>
 
 ### Connect with me
-<p> <a href="https://medium.com/@akylson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/igor-rezvykh/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a> </p>
+<p> <a href="https://www.linkedin.com/in/igor-rezvykh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://t.me/iamigorr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a> </p>
 
 
 <h3>My Repositories</h3>
