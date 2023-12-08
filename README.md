@@ -2,8 +2,8 @@
 
 ## I'm Junior Data Scientist 
 
-- <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/dd6bc27c-c161-495c-8b6e-ec4164cd29a6" height=15> Completed the Data Science Specialist course </a> </p>    
-- <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/75d9a9b3-24f2-4dab-b78d-a94afef7e1e3" height=15> Looking for a job </a> </p>  
+- <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/dd6bc27c-c161-495c-8b6e-ec4164cd29a6" height=15> I am constantly developing my skills and learning in machine learning </a> </p>    
+- <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/75d9a9b3-24f2-4dab-b78d-a94afef7e1e3" height=15> I'm currently looking for a job </a> </p>  
 
 ### Languages and Tools:
 <p> <a> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25> </a>
