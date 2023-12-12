@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor Rezvykh - iamigorr11! 👋
 
-## I'm Junior Data Scientist 
+## I'm Data Scientist 
 
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/dd6bc27c-c161-495c-8b6e-ec4164cd29a6" height=15> I'm constantly developing my skills and learning in machine learning </a> </p>    
 - <p> <a> <img src="https://github.com/iamigorr11/iamigorr11/assets/134969236/75d9a9b3-24f2-4dab-b78d-a94afef7e1e3" height=15> I'm currently looking for a job </a> </p>  
