@@ -37,7 +37,13 @@
       <td><a href="https://github.com/iamigorr11/Data-Science-projects"><b>Data-Science-projects</b></a></td>
       <td><a href="https://github.com/iamigorr11/Data-Science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/iamigorr11/Data-Science-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
-</tr>    
+</tr>
+
+<tr>
+      <td><a href="https://github.com/iamigorr11/Portfolio"><b>Data-Science-projects</b></a></td>
+      <td><a href="https://github.com/iamigorr11/Portfolio/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/iamigorr11/Portfolio/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+</tr> 
 
   </tbody>
 </table>
